@@ -1,13 +1,14 @@
-# {Competition Name} - Documentation
+# Cassava Leaf Disease Classification - Documentation
 
 ## Relevant content:
-- [Content]()
+- [Cassava Disease Classification (previous competition)](https://www.kaggle.com/c/cassava-disease/overview)
+- [cropnet/classifier/cassava_disease_V1](https://tfhub.dev/google/cropnet/classifier/cassava_disease_V1/2)
 
 ## GitHub:
 - [Git repository]()
 
 ## Papers:
-- [Paper]()
+- [LeafGAN: An Effective Data Augmentation Method for Practical Plant Disease Diagnosis](https://arxiv.org/pdf/2002.10100.pdf)
 
 ## Videos:
 - [Video]()
@@ -16,7 +17,10 @@
 - [Kernel]()
 
 ## Discussions:
-- [Discussion]()
+- [Previous Cassava Leaf Disease Classification](https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/198131)
+- [🌿 ☘️ 🍀 Deep Learning + Plant Disease Classification Research Papers - Compilation](https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/199692)
+- [Research Papers related to this competition](https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/198146)
+- [[place holder] let's try something new ... vision transformer](https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/199276)
  
 ## Insights:
 - ### Positive Insights
