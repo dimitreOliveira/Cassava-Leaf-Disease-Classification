@@ -21,6 +21,9 @@
 - [🌿 ☘️ 🍀 Deep Learning + Plant Disease Classification Research Papers - Compilation](https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/199692)
 - [Research Papers related to this competition](https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/198146)
 - [[place holder] let's try something new ... vision transformer](https://www.kaggle.com/c/cassava-leaf-disease-classification/discussion/199276)
+- [1st place solution (past competition)](https://www.kaggle.com/c/cassava-disease/discussion/94114)
+- [2nd place solution (past competition)](https://www.kaggle.com/c/cassava-disease/discussion/94112)
+- [3rd place solution (past competition)](https://www.kaggle.com/c/cassava-disease/discussion/94102)
  
 ## Insights:
 - ### Positive Insights
