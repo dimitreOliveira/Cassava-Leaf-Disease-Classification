@@ -5,6 +5,8 @@
 - [cropnet/classifier/cassava_disease_V1](https://tfhub.dev/google/cropnet/classifier/cassava_disease_V1/2)
 - [Bi-Tempered Logistic Loss for Training Neural Nets with Noisy Data](https://ai.googleblog.com/2019/08/bi-tempered-logistic-loss-for-training.html)
 - [Pre-training without Natural Images](https://hirokatsukataoka16.github.io/Pretraining-without-Natural-Images/)
+- [Supervised Contrastive Learning (Paper)](https://arxiv.org/pdf/2004.11362.pdf)
+- [Supervised Contrastive Learning (Keras tutorial)](https://keras.io/examples/vision/supervised-contrastive-learning/)
 
 ## GitHub:
 - [Git repository]()
