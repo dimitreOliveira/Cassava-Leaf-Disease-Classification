@@ -1,25 +1,34 @@
 ## Model backlog
-- **Train** and **validation** are the splits using the train data from the competition.
+- **OOF** is the validation set using the training data from the competition.
+- **Public LB** is the Public leaderboard score.
+- **Private LB** is the Private leaderboard score.
 - The competition metric is **Categorization Accuracy**.
-- **Public LB** is the Public Leaderboard score.
-- **Private LB** is the Private Leaderboard score.
 
 ---
 
 ## Models
 
-| Model | Train | Validation | Public LB | Private LB |
-|-------|-------|------------|-----------|------------|
-| 0-Cassava Leaf-EfficientNetB3 TPU-v2 | ??? | 0.892 | 0.884 | ??? |
-| 1-Cassava Leaf Disease-EfficientNetB3 TPU-v3 | ??? | 0.890 | 0.891 | ??? |
-| 2-Cassava Leaf Disease-2020 data | ??? | 0.888 | 0.888 | ??? |
-| 3-Cassava Leaf-2020 data oversampled | ??? | 0.888 | 0.883 | ??? |
-| 4-Cassava Leaf-BN unfrozen | ??? | 0.886 | 0.881 | ??? |
-| 5-Cassava Leaf-EfficientNetB5 | ??? | 0.893 | 0.890 | ??? |
-| 6-Cassava Leaf-EfficientNetB5 456x456 | ??? | 0.892 | ??? | ??? |
-| 7-Cassava Leaf-EfficientNetB5 light aug 456x456 | ??? | 0.889 | 000 | ??? |
-| 8-Cassava Leaf-EfficientNetB5 light aug 512x512 | ??? | 0.893 | 000 | ??? |
-| 9-Cassava Leaf-EfficientNetB5 15_epochs 512x512 | ??? | 0.893 | 000 | ??? |
-| 10-Cassava Leaf-EfficientNetB5 2020+2019 512 | ??? | 0.895 | 000 | ??? |
-| 11-Cassava Leaf-EfficientNetB5 2020 oversampled | ??? | 0.892 | 000 | ??? |
-| 12-Cassava Leaf-EfficientNetB5 2020+2019 oversamp | ??? | 0.892 | 000 | ??? |
+| Model | OOF | Public LB | Private LB |
+|-------|------------|-----------|------------|
+| 0-Cassava Leaf-EfficientNetB3 TPU-v2 | 0.892 | 0.884 | ??? |
+| 1-Cassava Leaf Disease-EfficientNetB3 TPU-v3 | 0.890 | 0.891 | ??? |
+| 2-Cassava Leaf Disease-2020 data | 0.888 | 0.888 | ??? |
+| 3-Cassava Leaf-2020 data oversampled | 0.888 | 0.883 | ??? |
+| 4-Cassava Leaf-BN unfrozen | 0.886 | 0.881 | ??? |
+| 5-Cassava Leaf-EfficientNetB5 | 0.893 | 0.890 | ??? |
+| 6-Cassava Leaf-EfficientNetB5 456x456 | 0.892 | ??? | ??? |
+| 7-Cassava Leaf-EfficientNetB5 light aug 456x456 | 0.889 | ??? | ??? |
+| 8-Cassava Leaf-EfficientNetB5 light aug 512x512 | 0.893 | ??? | ??? |
+| 9-Cassava Leaf-EfficientNetB5 15_epochs 512x512 | 0.893 | ??? | ??? |
+| 10-Cassava Leaf-EfficientNetB5 2020+2019 512 | 0.895 | 0.893 | ??? |
+| 11-Cassava Leaf-EfficientNetB5 2020 oversampled | 0.892 | ??? | ??? |
+| 12-Cassava Leaf-EfficientNetB5 2020+2019 oversamp | 0.892 | ??? | ??? |
+| 13-Cassava Leaf-EfficientNetB5 TFRec_15 512x512 | 0.897 | 0.889 | ??? |
+| 14-Cassava Leaf-EfficientNetB5 smoothing_01 512 | 0.894 | ??? | ??? |
+| 15-Cassava Leaf-EfficientNetB5 rotation 512x512 | 0.895 | ??? | ??? |
+| 16-Cassava Leaf-EfficientNetB5 SGD 512 | 0.893 | ??? | ??? |
+| 17-Cassava Leaf-EfficientNetB5 SGD 20_epochs 512 | 0.896 | 0.891 | ??? |
+| 18-Cassava Leaf-EfficientNetB5 SGD 25_epochs 512 | 0.894 | ??? | ??? |
+| 19-Cassava Leaf-EfficientNetB5 SGD LR finder 512 | 0.872 | ??? | ??? |
+| 20-Cassava Leaf-EfficientNetB5 One cycle 512 | 0.893 | ??? | ??? |
+| 21-Cassava Leaf-EfficientNetB5 One cycle cosine | 0.895 | ??? | ??? |
