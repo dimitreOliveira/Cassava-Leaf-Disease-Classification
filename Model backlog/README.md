@@ -41,4 +41,5 @@
 | 28-Cassava Leaf-EffNetB5 Ranger Cosine warmup 512 | 0.895 | ??? | ??? |
 | 29-Cassava Leaf-EffNetB5 2020 data 512 | 0.899 | 0.890 | ??? |
 | 30-Cassava Leaf-EffNetB5 2020 data oversampled 512 | 0.897 | 0.892 | ??? |
-| 31-Cassava Leaf-EffNetB5 2020+2019 oversampled 512 | 0.894 | ??? | ??? |
+| 32-Cassava Leaf-EffNetB5 random_crop 456x456 | 0.896 | 0.894 | ??? |
+| 33-Cassava Leaf-EffNetB5 456x456 | 0.898 | 0.891 | ??? |
