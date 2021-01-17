@@ -32,14 +32,16 @@
 | 19-Cassava Leaf-EfficientNetB5 SGD LR finder 512 | 0.872 | ??? | ??? |
 | 20-Cassava Leaf-EfficientNetB5 One cycle 512 | 0.893 | ??? | ??? |
 | 21-Cassava Leaf-EfficientNetB5 One cycle cosine | 0.895 | 0.888 | ??? |
-| 22-Cassava Leaf-EffNetB5 Cosine warmup LR 512 | 0.897 | ??? | ??? |
+| 22-Cassava Leaf-EffNetB5 Cosine warmup LR 512 | 0.897 | 0.890 | ??? |
 | 23-Cassava Leaf-EffNetB5 Cosine warmup LR 10c 512 | 0.900 | 0.893 | ??? |
-| 24-Cassava Leaf-EffNetB5 no normalization 512 | 0.897 | ??? | ??? |
+| 24-Cassava Leaf-EffNetB5 no normalization 512 | 0.897 | 0.895 | ??? |
 | 25-Cassava Leaf-EffNetB5 no normalization 10c 512 | 0.898 | 0.893 | ??? |
 | 26-Cassava Leaf-EffNetB5 Adam Cosine warmup 512 | 0.897 | 0.889 | ??? |
-| 27-Cassava Leaf-EffNetB5 RAdam Cosine warmup 512 | 0.895 | ??? | ??? |
-| 28-Cassava Leaf-EffNetB5 Ranger Cosine warmup 512 | 0.895 | ??? | ??? |
+| 27-Cassava Leaf-EffNetB5 RAdam Cosine warmup 512 | 0.895 | 0.894 | ??? |
+| 28-Cassava Leaf-EffNetB5 Ranger Cosine warmup 512 | 0.895 | 0.889 | ??? |
 | 29-Cassava Leaf-EffNetB5 2020 data 512 | 0.899 | 0.890 | ??? |
 | 30-Cassava Leaf-EffNetB5 2020 data oversampled 512 | 0.897 | 0.892 | ??? |
 | 32-Cassava Leaf-EffNetB5 random_crop 456x456 | 0.896 | 0.894 | ??? |
 | 33-Cassava Leaf-EffNetB5 456x456 | 0.898 | 0.891 | ??? |
+| 34-Cassava Leaf-EffNetB5 Cosine 10c TPUv3 512 | 0.900 | 0.895 | ??? |
+| 35-Cassava Leaf-EffNetB5 Cosine 10c TPUv2 512 | 0.901 | 0.897 | ??? |
