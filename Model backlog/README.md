@@ -51,5 +51,8 @@
 | 40-Cassava Leaf-EffNetB5 pixel-level 512x512 | 0.897 | 0.890 | ??? |
 | 41-Cassava Leaf-EffNetB5 cut-out 512x512 | 0.900 | 0.891 | ??? |
 | 42-Cassava Leaf-EffNetB5 2020_data cut-out 512x512 | 0.897 | 0.893 | ??? |
-| 43-Cassava Leaf-EffNetB5 2020 pixel-level 512x512 | 0.897 | ??? | ??? |
-| 44-Cassava Leaf-EffNetB5 2020 singcut-out 512x512 | 0.897 | ??? | ??? |
+| 43-Cassava Leaf-EffNetB5 2020 pixel-level 512x512 | 0.897 | 0.890 | ??? |
+| 44-Cassava Leaf-EffNetB5 2020 singcut-out 512x512 | 0.897 | 0.892 | ??? |
+| 45-Cassava Leaf-EffNetB4 cut-out 512x512 | 0.894 | 0.886 | ??? |
+| 46-Cassava Leaf-EffNetB5 adam 512x512 | 0.898 | 0.891 | ??? |
+| 47-Cassava Leaf-EffNetB5 heavier aug 512x512 | 0.897 | ??? | ??? |
