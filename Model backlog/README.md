@@ -55,4 +55,12 @@
 | 44-Cassava Leaf-EffNetB5 2020 singcut-out 512x512 | 0.897 | 0.892 | ??? |
 | 45-Cassava Leaf-EffNetB4 cut-out 512x512 | 0.894 | 0.886 | ??? |
 | 46-Cassava Leaf-EffNetB5 adam 512x512 | 0.898 | 0.891 | ??? |
-| 47-Cassava Leaf-EffNetB5 heavier aug 512x512 | 0.897 | ??? | ??? |
+| 47-Cassava Leaf-EffNetB5 heavier aug 512x512 | 0.897 | 0.887 | ??? |
+| 48-Cassava Leaf-EffNetB5 random_crop 456x456 | 0.892 | ??? | ??? |
+| 49-Cassava Leaf-EffNetB5 random_crop_v2 456x456 | 0.896 | 0.891 | ??? |
+| 50-Cassava Leaf-EffNetB5 center_crop 456 | 0.894 | ??? | ??? |
+| 51-Cassava Leaf-EffNetB5 lbl_smooth_sched_inc 512 | 0.898 | 0.892 | ??? |
+| 52-Cassava Leaf-EffNetB5 step_200 bs_8 512 | 0.895 | ??? | ??? |
+| 53-Cassava Leaf-EffNetB5 step_200 bs_16 512 | 0.896 | 0.893 | ??? |
+| 54-Cassava Leaf-EffNetB5 lbl_smooth_sched_dec 512 | 0.898 | 0.890 | ??? |
+| 55-Cassava Leaf-EffNetB5 16-sample dropout 512 | 0.893 | ??? | ??? |
