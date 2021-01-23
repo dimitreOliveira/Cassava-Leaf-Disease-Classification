@@ -64,3 +64,12 @@
 | 53-Cassava Leaf-EffNetB5 step_200 bs_16 512 | 0.896 | 0.893 | ??? |
 | 54-Cassava Leaf-EffNetB5 lbl_smooth_sched_dec 512 | 0.898 | 0.890 | ??? |
 | 55-Cassava Leaf-EffNetB5 16-sample dropout 512 | 0.893 | ??? | ??? |
+| 56-Cassava Leaf-EffNetB5 3_input_resize 512 | 0.886 | ??? | ??? |
+| 57-Cassava Leaf-EffNetB5 3_input_random_crop 51 | 0.890 | ??? | ??? |
+| 58-Cassava Leaf-EffNetB5 no_dropout 512 | 0.900 | 0.891 | ??? |
+| 59-Cassava Leaf-EffNetB5 aux_task_healthy 512x512 | 0.894 | ??? | ??? |
+| 60-Cassava Leaf-EffNetB5 aux_task_healthy smoo 512 | 0.897 | ??? | ??? |
+| 61-Cassava Leaf-EffNetB5 aux_task_healthy smoo 512 | 0.899 | 0.895 | ??? |
+| 62-Cassava Leaf-EffNetB5 aux_task_healthy_02 512 | 0.899 | 0.889 | ??? |
+| 63-Cassava Leaf-EffNetB5 aux_task_cmd_02 512x512 | 0.901 | 0.892 | ??? |
+| 64-Cassava Leaf-EffNetB5 aux_task_healt_cmd_02 512 | 0.898 | 0.891 | ??? |
