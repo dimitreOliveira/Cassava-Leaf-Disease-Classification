@@ -73,3 +73,12 @@
 | 62-Cassava Leaf-EffNetB5 aux_task_healthy_02 512 | 0.899 | 0.889 | ??? |
 | 63-Cassava Leaf-EffNetB5 aux_task_cmd_02 512x512 | 0.901 | 0.892 | ??? |
 | 64-Cassava Leaf-EffNetB5 aux_task_healt_cmd_02 512 | 0.898 | 0.891 | ??? |
+| 65-Cassava Leaf-EffNetB5 aux_task_healt_cmd_01 512 | 0.898 | 0.895 | ??? |
+| 66-Cassava Leaf-EffNetB5 5-Fold_41 512x512 | 0.900 | 0.893 | ??? |
+| 67-Cassava Leaf-EffNetB5 5-Fold_61 512x512 | 0.900 | 0.894 | ??? |
+| 68-Cassava Leaf-EffNetB5 5-Fold_63 512x512 | 0.899 | 0.896 | ??? |
+| 69-Cassava Leaf-EffNetB5 5-Fold_51 512x512 | 0.899 | 0.895 | ??? |
+| 70-Cassava Leaf-EffNetB5 complete_2019 512x512 | 0.898 | ??? | ??? |
+| 71-Cassava Leaf-EffNetB5 2020_2019_oversampled 512 | 0.895 | ??? | ??? |
+| 72-Cassava Leaf-EffNetB5 15_ep_cycle 512x512 | 0.897 | ??? | ??? |
+| 73-Cassava Leaf-EffNetB5 5-Fold_63 TPU-v2 512x512 | 893 | ??? | ??? |
