@@ -81,4 +81,11 @@
 | 70-Cassava Leaf-EffNetB5 complete_2019 512x512 | 0.898 | ??? | ??? |
 | 71-Cassava Leaf-EffNetB5 2020_2019_oversampled 512 | 0.895 | ??? | ??? |
 | 72-Cassava Leaf-EffNetB5 15_ep_cycle 512x512 | 0.897 | ??? | ??? |
-| 73-Cassava Leaf-EffNetB5 5-Fold_63 TPU-v2 512x512 | 893 | ??? | ??? |
+| 73-Cassava Leaf-EffNetB5 5-Fold_63 TPU-v2 512x512 | 0.893 | ??? | ??? |
+| 74-Cassava Leaf-EffNetB5 5-Fold_65 512x512 | 0.900 | 0.893 | ??? |
+| 75-Cassava Leaf-EffNetB5 2_aux_tasks 2020_data 512 | 0.899 | 0.889 | ??? |
+| 76-Cassava Leaf-BiT ResNet50x1 2_aux_tasks 512 | 0.893 | ??? | ??? |
+| 77-Cassava Leaf-BiT ResNet50x1 flower_ exp aux 512 | 0.893 | ??? | ??? |
+| 78-Cassava Leaf-BiT ResNet50x1 plant_exp aux 512 | 0.895 | ??? | ??? |
+| 79-Cassava Leaf-BiT ResNet50x1 plant_exp adam 512 | 0.892 | ??? | ??? |
+| 80-Cassava Leaf-BiT ResNet50x1 2_aux Adam 512 | 0.893 | ??? | ??? |
