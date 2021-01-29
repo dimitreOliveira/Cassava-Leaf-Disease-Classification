@@ -58,7 +58,7 @@
 | 47-Cassava Leaf-EffNetB5 heavier aug 512x512 | 0.897 | 0.887 | ??? |
 | 48-Cassava Leaf-EffNetB5 random_crop 456x456 | 0.892 | ??? | ??? |
 | 49-Cassava Leaf-EffNetB5 random_crop_v2 456x456 | 0.896 | 0.891 | ??? |
-| 50-Cassava Leaf-EffNetB5 center_crop 456 | 0.894 | ??? | ??? |
+| 50-Cassava Leaf-EffNetB5 center_crop 456 | 0.894 | 0.888 | ??? |
 | 51-Cassava Leaf-EffNetB5 lbl_smooth_sched_inc 512 | 0.898 | 0.892 | ??? |
 | 52-Cassava Leaf-EffNetB5 step_200 bs_8 512 | 0.895 | 0.891 | ??? |
 | 53-Cassava Leaf-EffNetB5 step_200 bs_16 512 | 0.896 | 0.893 | ??? |
@@ -67,7 +67,7 @@
 | 56-Cassava Leaf-EffNetB5 3_input_resize 512 | 0.886 | ??? | ??? |
 | 57-Cassava Leaf-EffNetB5 3_input_random_crop 51 | 0.890 | ??? | ??? |
 | 58-Cassava Leaf-EffNetB5 no_dropout 512 | 0.900 | 0.891 | ??? |
-| 59-Cassava Leaf-EffNetB5 aux_task_healthy 512x512 | 0.894 | ??? | ??? |
+| 59-Cassava Leaf-EffNetB5 aux_task_healthy 512x512 | 0.894 | 0.889 | ??? |
 | 60-Cassava Leaf-EffNetB5 aux_task_healthy smoo 512 | 0.897 | 0.890 | ??? |
 | 61-Cassava Leaf-EffNetB5 aux_task_healthy smoo 512 | 0.899 | 0.895 | ??? |
 | 62-Cassava Leaf-EffNetB5 aux_task_healthy_02 512 | 0.899 | 0.889 | ??? |
@@ -85,9 +85,13 @@
 | 74-Cassava Leaf-EffNetB5 5-Fold_65 512x512 | 0.900 | 0.893 | ??? |
 | 75-Cassava Leaf-EffNetB5 2_aux_tasks 2020_data 512 | 0.899 | 0.889 | ??? |
 | 76-Cassava Leaf-BiT ResNet50x1 2_aux_tasks 512 | 0.893 | ??? | ??? |
-| 77-Cassava Leaf-BiT ResNet50x1 flower_ exp aux 512 | 0.893 | ??? | ??? |
+| 77-Cassava Leaf-BiT ResNet50x1 flower_ exp aux 512 | 0.893 | 0.890 | ??? |
 | 78-Cassava Leaf-BiT ResNet50x1 plant_exp aux 512 | 0.895 | 0.892 | ??? |
-| 79-Cassava Leaf-BiT ResNet50x1 plant_exp adam 512 | 0.892 | ??? | ??? |
-| 80-Cassava Leaf-BiT ResNet50x1 2_aux Adam 512 | 0.893 | ??? | ??? |
+| 79-Cassava Leaf-BiT ResNet50x1 plant_exp adam 512 | 0.892 | 0.887 | ??? |
+| 80-Cassava Leaf-BiT ResNet50x1 2_aux Adam 512 | 0.893 | 0.885 | ??? |
 | 81-Cassava Leaf-EffNetB5 aux_task_2 bs_16 512 | 0.897 | 0.892 | ??? |
-| 82-Cassava Leaf-EffNetB3 aux_task_2 SCL 512x512 | 0.922 | 0.881 | ??? |
+| 82-Cassava Leaf-EffNetB3 aux_task_2 SCL 512x512 | 0.881 | 0.881 | ??? |
+| 83-Cassava Leaf-EffNetB3 SCL 2020_data 512x512 | 0.886 | 0.886 | ??? |
+| 84-Cassava Leaf-EffNetB3 SCL 2020 2_aux 512x512 | 0.885 | ??? | ??? |
+| 85-Cassava Leaf-EffNetB3 SCL 2020 2_aux SGD 512 | 0.829 | ??? | ??? |
+| 86-Cassava Leaf-EffNetB4 SCL 2020 2_aux 512x512 | 0.883 | ??? | ??? |
