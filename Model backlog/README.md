@@ -63,7 +63,7 @@
 | 52-Cassava Leaf-EffNetB5 step_200 bs_8 512 | 0.895 | 0.891 | ??? |
 | 53-Cassava Leaf-EffNetB5 step_200 bs_16 512 | 0.896 | 0.893 | ??? |
 | 54-Cassava Leaf-EffNetB5 lbl_smooth_sched_dec 512 | 0.898 | 0.890 | ??? |
-| 55-Cassava Leaf-EffNetB5 16-sample dropout 512 | 0.893 | ??? | ??? |
+| 55-Cassava Leaf-EffNetB5 16-sample dropout 512 | 0.893 | 0.888 | ??? |
 | 56-Cassava Leaf-EffNetB5 3_input_resize 512 | 0.886 | ??? | ??? |
 | 57-Cassava Leaf-EffNetB5 3_input_random_crop 51 | 0.890 | ??? | ??? |
 | 58-Cassava Leaf-EffNetB5 no_dropout 512 | 0.900 | 0.891 | ??? |
@@ -84,7 +84,7 @@
 | 73-Cassava Leaf-EffNetB5 5-Fold_63 TPU-v2 512x512 | 0.893 | 0.898 | ??? |
 | 74-Cassava Leaf-EffNetB5 5-Fold_65 512x512 | 0.900 | 0.893 | ??? |
 | 75-Cassava Leaf-EffNetB5 2_aux_tasks 2020_data 512 | 0.899 | 0.889 | ??? |
-| 76-Cassava Leaf-BiT ResNet50x1 2_aux_tasks 512 | 0.893 | ??? | ??? |
+| 76-Cassava Leaf-BiT ResNet50x1 2_aux_tasks 512 | 0.893 | 0.888 | ??? |
 | 77-Cassava Leaf-BiT ResNet50x1 flower_ exp aux 512 | 0.893 | 0.890 | ??? |
 | 78-Cassava Leaf-BiT ResNet50x1 plant_exp aux 512 | 0.895 | 0.892 | ??? |
 | 79-Cassava Leaf-BiT ResNet50x1 plant_exp adam 512 | 0.892 | 0.887 | ??? |
@@ -95,3 +95,9 @@
 | 84-Cassava Leaf-EffNetB3 SCL 2020 2_aux 512x512 | 0.885 | ??? | ??? |
 | 85-Cassava Leaf-EffNetB3 SCL 2020 2_aux SGD 512 | 0.829 | ??? | ??? |
 | 86-Cassava Leaf-EffNetB4 SCL 2020 2_aux 512x512 | 0.883 | ??? | ??? |
+| 87-Cassava Leaf-EffNetB5 SCL 2020 2_aux 512x512 | 0.882 | ??? | ??? |
+| 88-Cassava Leaf-EffNetB5 cross_entropy 2_aux 512 | 0.892 | ??? | ??? |
+| 89-Cassava Leaf-EffNetB4 cross_entropy 2_aux 512 | 0.892 | ??? | ??? |
+| 90-Cassava Leaf-EffNetB4 s_cross_entropy aux 512 | 0.889 | ??? | ??? |
+| 91-Cassava Leaf-EffNetB4 SCL aux 512x512 | 0.878 | ??? | ??? |
+| 92-Cassava Leaf-EffNetB4 SCL+dense aux 512x512 | 0.888 | ??? | ??? |
