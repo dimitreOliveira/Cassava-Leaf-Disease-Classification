@@ -94,13 +94,14 @@
 | 83-Cassava Leaf-EffNetB3 SCL 2020_data 512x512 | 0.886 | 0.886 | ??? |
 | 84-Cassava Leaf-EffNetB3 SCL 2020 2_aux 512x512 | 0.885 | ??? | ??? |
 | 85-Cassava Leaf-EffNetB3 SCL 2020 2_aux SGD 512 | 0.829 | ??? | ??? |
-| 86-Cassava Leaf-EffNetB4 SCL 2020 2_aux 512x512 | 0.883 | ??? | ??? |
-| 87-Cassava Leaf-EffNetB5 SCL 2020 2_aux 512x512 | 0.882 | ??? | ??? |
-| 88-Cassava Leaf-EffNetB5 cross_entropy 2_aux 512 | 0.892 | ??? | ??? |
-| 89-Cassava Leaf-EffNetB4 cross_entropy 2_aux 512 | 0.892 | ??? | ??? |
+| 86-Cassava Leaf-EffNetB4 SCL 2020 2_aux 512x512 | 0.883 | 0.891 | ??? |
+| 87-Cassava Leaf-EffNetB5 SCL 2020 2_aux 512x512 | 0.882 | 0.886 | ??? |
+| 88-Cassava Leaf-EffNetB5 cross_entropy 2_aux 512 | 0.892 | 0.888 | ??? |
+| 89-Cassava Leaf-EffNetB4 cross_entropy 2_aux 512 | 0.892 | 0.886 | ??? |
 | 90-Cassava Leaf-EffNetB4 s_cross_entropy aux 512 | 0.889 | 0.888 | ??? |
 | 91-Cassava Leaf-EffNetB4 SCL aux 512x512 | 0.878 | 0.882 | ??? |
 | 92-Cassava Leaf-EffNetB4 SCL+dense aux 512x512 | 0.888 | 0.892 | ??? |
 | 93-Cassava Leaf-EffNetB4 SCL oversamp aux 512x512 | 0.874 | 0.873 | ??? |
 | 94-Cassava Leaf-EffNetB4 SCL_no_aug oversamp 512 | 0.871 | 0.877 | ??? |
 | 95-Cassava Leaf-EffNetB3 SCL oversample 512x512 | 0.882 | 0.880 | ??? |
+| 96-Cassava Leaf-EffNetB3 SCL 3_proj oversample 512 | 0.878 | 0.871 | ??? |
