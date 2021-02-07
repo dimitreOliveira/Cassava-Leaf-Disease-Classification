@@ -105,3 +105,13 @@
 | 94-Cassava Leaf-EffNetB4 SCL_no_aug oversamp 512 | 0.871 | 0.877 | ??? |
 | 95-Cassava Leaf-EffNetB3 SCL oversample 512x512 | 0.882 | 0.880 | ??? |
 | 96-Cassava Leaf-EffNetB3 SCL 3_proj oversample 512 | 0.878 | 0.871 | ??? |
+| 97-Cassava Leaf-EffNetB3 SCL+CCE 512x512 | 0.882 | 0.882 | ??? |
+| 98-Cassava Leaf-EffNetB3 SCL+CCE flat_proj 512x512 | 0.879 | ??? | ??? |
+| 99-Cassava Leaf-EffNetB3 SCL+CCE 512x512 | 0.886 | ??? | ??? |
+| 100-Cassava Leaf-EffNetB3 SCL+CCE BN_frozen 512 | 0.896 | 0.888 | ??? |
+| 101-Cassava Leaf-EffNetB3 SCL+CCE BN SGD 512x512 | 0.886 | ??? | ??? |
+| 102-Cassava Leaf-EffNetB3 SCL+CCE BN longer 512 | 0.894 | 0.893 | ??? |
+| 103-Cassava Leaf-EffNetB3 SCL+CCE no_aug 512 | 0.896 | 0.886 | ??? |
+| 104-Cassava Leaf-EffNetB3 SCL simple_class 512 | 0.892 | ??? | ??? |
+| 105-Cassava Leaf-EffNetB3 SCL_3_enc_outputs 512 | 0.895 | 0.890 | ??? |
+| 106-Cassava Leaf-EffNetB3 SCL_1_enc_outputs 512 | 0.895 | 0.888 | ??? |
