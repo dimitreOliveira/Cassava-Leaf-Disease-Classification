@@ -115,3 +115,8 @@
 | 104-Cassava Leaf-EffNetB3 SCL simple_class 512 | 0.892 | ??? | ??? |
 | 105-Cassava Leaf-EffNetB3 SCL_3_enc_outputs 512 | 0.895 | 0.890 | ??? |
 | 106-Cassava Leaf-EffNetB3 SCL_1_enc_outputs 512 | 0.895 | 0.888 | ??? |
+| 107-Cassava Leaf-EffNetB3 SCL_enc_norm 512x512 | 0.895 | 0.884 | ??? |
+| 108-Cassava Leaf-EffNetB3 SCL_enc_128 512 | 0.896 | 0.890 | ??? |
+| 109-Cassava Leaf-EffNetB3 SCL_enc_aux 512x512 | 0.893 | 0.886 | ??? |
+| 110-Cassava Leaf-EffNetB3 SCL 2019_data 512 | 0.893 | 0.888 | ??? |
+| 111-Cassava Leaf-EffNetB3 SCL 2020_oversample 512 | 0.889 | ??? | ??? |
