@@ -119,4 +119,14 @@
 | 108-Cassava Leaf-EffNetB3 SCL_enc_128 512 | 0.896 | 0.890 | ??? |
 | 109-Cassava Leaf-EffNetB3 SCL_enc_aux 512x512 | 0.893 | 0.886 | ??? |
 | 110-Cassava Leaf-EffNetB3 SCL 2019_data 512 | 0.893 | 0.888 | ??? |
-| 111-Cassava Leaf-EffNetB3 SCL 2020_oversample 512 | 0.889 | ??? | ??? |
+| 111-Cassava Leaf-EffNetB3 SCL 2020_oversample 512 | 0.889 | 0.877 | ??? |
+| 112-Cassava Leaf-EffNetB3 SCL_and_BCE 512 | 0.895 | 0.890 | ??? |
+| 113-Cassava Leaf-EffNetB3 SCL less_dropout 512x512 | 0.896 | 0.888 | ??? |
+| 114-Cassava Leaf-EffNetB4 SCL_enc_128 512x512 | 0.896 | 0.887 | ??? |
+| 115-Cassava Leaf-EffNetB5 SCL_enc_128 512x512 | 0.895 | 0.890 | ??? |
+| 116-Cassava Leaf-EffNetB3 SCL augment 512x512 | 0.894 | 0.888 | ??? |
+| 117-Cassava Leaf-EffNetB3 SCL augment_pixel 512 | 0.880 | 0.872 | ??? |
+| 118-Cassava Leaf-EffNetB3 SCL augment_medium 512 | 0.895 | 0.891 | ??? |
+| 119-Cassava Leaf-EffNetB3 SCL augment_cutout 512 | 0.896 | 0.887 | ??? |
+| 120-Cassava Leaf-EffNetB3 SCL augment_clip 512x512 | 0.894 | ??? | ??? |
+| 121-Cassava Leaf-EffNetB3 SCL augment_heavy 512 | 0.895 | 0.887 | ??? |
