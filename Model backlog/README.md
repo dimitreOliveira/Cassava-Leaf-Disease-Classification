@@ -128,5 +128,8 @@
 | 117-Cassava Leaf-EffNetB3 SCL augment_pixel 512 | 0.880 | 0.872 | ??? |
 | 118-Cassava Leaf-EffNetB3 SCL augment_medium 512 | 0.895 | 0.891 | ??? |
 | 119-Cassava Leaf-EffNetB3 SCL augment_cutout 512 | 0.896 | 0.887 | ??? |
-| 120-Cassava Leaf-EffNetB3 SCL augment_clip 512x512 | 0.894 | ??? | ??? |
+| 120-Cassava Leaf-EffNetB3 SCL augment_clip 512x512 | 0.894 | 0.892 | ??? |
 | 121-Cassava Leaf-EffNetB3 SCL augment_heavy 512 | 0.895 | 0.887 | ??? |
+| 122-Cassava Leaf-EffNetB3 SCL_no_aux 512x512 | 0.896 | 0.888 | ??? |
+| 123-Cassava Leaf-EffNetB3 SCL_no_aux_2 512x512 | 0.896 | 0.886 | ??? |
+| 124-Cassava Leaf-EffNetB3 SCL_healthy 512x512 | 0.892 | 0.886 | ??? |
