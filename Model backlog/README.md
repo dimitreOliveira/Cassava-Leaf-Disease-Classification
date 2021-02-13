@@ -133,3 +133,14 @@
 | 122-Cassava Leaf-EffNetB3 SCL_no_aux 512x512 | 0.896 | 0.888 | ??? |
 | 123-Cassava Leaf-EffNetB3 SCL_no_aux_2 512x512 | 0.896 | 0.886 | ??? |
 | 124-Cassava Leaf-EffNetB3 SCL_healthy 512x512 | 0.892 | 0.886 | ??? |
+| 125-Cassava Leaf-EffNetB3 SCL_imagenet 512x512 | 0.885 | ??? | ??? |
+| 126-Cassava Leaf-EffNetB3 SCL_imagenet 512x512 | 0.889 | ??? | ??? |
+| 127-Cassava Leaf-EffNetB3 SCL_imagenet GPU 384x384 | 0.879 | ??? | ??? |
+| 128-Cassava Leaf-EffNetB3 SCL_imagenet bs_64 512 | 0.885 | ??? | ??? |
+| 129-Cassava Leaf-EffNetB3 SCL_imagenet bs_64_s 512 | 0.882 | ??? | ??? |
+| 130-Cassava Leaf-EffNetB3 SCL_imag GPU_random 384 | 0.881 | ??? | ??? |
+| 131-Cassava Leaf-EffNetB3 SCL_image 5-fold 512x512 | 0.893 | ??? | ??? |
+| 132-Cassava Leaf-EffNetB3 SCL_imagenet 384x384 | 0.883 | ??? | ??? |
+| 133-Cassava Leaf-EffNetB5 SCL_imagenet 512x512 | 0.887 | ??? | ??? |
+| aaaaa | 000 | ??? | ??? |
+| aaaaa | 000 | ??? | ??? |
