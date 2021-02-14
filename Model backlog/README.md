@@ -139,8 +139,14 @@
 | 128-Cassava Leaf-EffNetB3 SCL_imagenet bs_64 512 | 0.885 | ??? | ??? |
 | 129-Cassava Leaf-EffNetB3 SCL_imagenet bs_64_s 512 | 0.882 | ??? | ??? |
 | 130-Cassava Leaf-EffNetB3 SCL_imag GPU_random 384 | 0.881 | ??? | ??? |
-| 131-Cassava Leaf-EffNetB3 SCL_image 5-fold 512x512 | 0.893 | ??? | ??? |
+| 131-Cassava Leaf-EffNetB3 SCL_image 5-fold 512x512 | 0.893 | 0.886 | ??? |
 | 132-Cassava Leaf-EffNetB3 SCL_imagenet 384x384 | 0.883 | ??? | ??? |
 | 133-Cassava Leaf-EffNetB5 SCL_imagenet 512x512 | 0.887 | ??? | ??? |
-| aaaaa | 000 | ??? | ??? |
-| aaaaa | 000 | ??? | ??? |
+| 134-Cassava Leaf-EffNetB3 SCL no_aux_task 512x512 | 0.879 | ??? | ??? |
+| 135-Cassava Leaf-EffNetB4 bs_8 380x380 | 0.883 | ??? | ??? |
+| 136-Cassava Leaf-EffNetB4 bs_16 380x380 | 0.882 | ??? | ??? |
+| 137-Cassava Leaf-EffNetB4 bs_16 456x456 | 0.885 | ??? | ??? |
+| 138-Cassava Leaf-EffNetB4 bs_16 512x512 | 0.893 | ??? | ??? |
+| 139-Cassava Leaf-EffNetB4 bs_16 2cycles 512x512 | 0.889 | ??? | ??? |
+| 140-Cassava Leaf-EffNetB4 bs_16 smooth_03 512x512 | 0.890 | ??? | ??? |
+| 141-Cassava Leaf-EffNetB4 bs_16 more_crop 512x512 | 0.890 | ??? | ??? |
