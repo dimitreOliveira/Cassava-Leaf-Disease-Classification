@@ -150,3 +150,20 @@
 | 139-Cassava Leaf-EffNetB4 bs_16 2cycles 512x512 | 0.889 | ??? | ??? |
 | 140-Cassava Leaf-EffNetB4 bs_16 smooth_03 512x512 | 0.890 | ??? | ??? |
 | 141-Cassava Leaf-EffNetB4 bs_16 more_crop 512x512 | 0.890 | ??? | ??? |
+| 142-Cassava Leaf-EffNetB4 2019_data 512x512 | 0.888 | ??? | ??? |
+| 143-Cassava Leaf-EffNetB5 bs_16 512x512 | 0.889 | ??? | ??? |
+| 144-Cassava Leaf-EffNetB6 bs_16 512x512 | 0.891 | ??? | ??? |
+| 145-Cassava Leaf-EffNetB4 epoch_lr 512x512 | 0.886 | ??? | ??? |
+| 146-Cassava Leaf-EffNetB4 batch_sampling 512x512 | 0.875 | ??? | ??? |
+| 147-Cassava Leaf-EffNetB4 batch_sampling 512x512 | 0.874 | ??? | ??? |
+| 148-Cassava Leaf-EffNetB4 noisy_students 512x512 | 0.895 | ??? | ??? |
+| 149-Cassava Leaf-EffNetB4 cut_out 512x512 | 0.897 | ??? | ??? |
+| 150-Cassava Leaf-EffNetB4 less_cut_out 512x512 | 0.896 | ??? | ??? |
+| 151-Cassava Leaf-EffNetB4 cut_out 23_epoch 512x512 | 0.892 | ??? | ??? |
+| 152-Cassava Leaf-EffNetB4 more_cut_out 512x512 | 0.893 | ??? | ??? |
+| 153-Cassava Leaf-EffNetB4 single_cut_out 512x512 | 0.895 | ??? | ??? |
+| 154-Cassava Leaf-EffNetB4 3cycle_50step 512x512 | 0.892 | ??? | ??? |
+| 155-Cassava Leaf-EffNetB4 3cycle_100step 512x512 | 0.899 | ??? | ??? |
+| aaaaa | 000 | ??? | ??? |
+| aaaaa | 000 | ??? | ??? |
+| aaaaa | 000 | ??? | ??? |
