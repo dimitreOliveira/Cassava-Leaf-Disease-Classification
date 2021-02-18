@@ -174,3 +174,4 @@
 | 163-Cassava Leaf-EffNetB4 dcr_04 456x456 | 0.892 | ??? | ??? |
 | 164-Cassava Leaf-EffNetB4 5-Fold dcr_04 380x380 | 0.894 | ??? | ??? |
 | 165-Cassava Leaf-EffNetB4 5-Fold dcr_04 456x456 | 0.897 | ??? | ??? |
+| 166-Cassava Leaf-EffNetB4 5-Fold dcr_04 TPUv2 512 | 0.892 | ??? | ??? |
