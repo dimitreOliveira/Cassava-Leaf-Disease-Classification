@@ -13,6 +13,8 @@
 ### What you will find
 - Documentation [[link]](https://github.com/dimitreOliveira/Cassava-Leaf-Disease-Classification/tree/master/Documentation)
 - Models [[link]](https://github.com/dimitreOliveira/Cassava-Leaf-Disease-Classification/tree/master/Model%20backlog)
+- Datasets [[link]](https://github.com/dimitreOliveira/Cassava-Leaf-Disease-Classification/tree/master/Datasets)
+- Scripts [[link]](https://github.com/dimitreOliveira/Cassava-Leaf-Disease-Classification/tree/master/Scripts)
 
 ### Cassava Leaf Disease Classification
 #### Identify the type of disease present on a Cassava Leaf image
