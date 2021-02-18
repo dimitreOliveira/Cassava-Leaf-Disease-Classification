@@ -1,9 +1,14 @@
 ![](https://github.com/dimitreOliveira/Cassava-Leaf-Disease-Classification/blob/master/Assets/banner.png)
 
-## About the repository
-{Competition abouts}
-
 ### Published Kaggle kernels:
+- [Cassava Leaf Disease - TPU Tensorflow - Training](https://www.kaggle.com/dimitreoliveira/cassava-leaf-disease-tpu-tensorflow-training)
+- [Cassava Leaf Disease - TPU Tensorflow - Inference](https://www.kaggle.com/dimitreoliveira/cassava-leaf-disease-tpu-tensorflow-inference)
+- [Cassava Leaf Disease - Training with TPU v2 Pods](https://www.kaggle.com/dimitreoliveira/cassava-leaf-disease-training-with-tpu-v2-pods)
+- [Cassava Leaf Disease - TPU v2 Pods - Inference](https://www.kaggle.com/dimitreoliveira/cassava-leaf-disease-tpu-v2-pods-inference)
+- [Cassava Leaf Disease - CycleGAN data augmentation](https://www.kaggle.com/dimitreoliveira/cassava-leaf-disease-cyclegan-data-augmentation)
+- [Cassava Leaf - Supervised Contrastive Learning](https://www.kaggle.com/dimitreoliveira/cassava-leaf-supervised-contrastive-learning)
+- [Cassava Leaf Disease-Stratified TFRecords 256x256](https://www.kaggle.com/dimitreoliveira/cassava-leaf-disease-stratified-tfrecords-256x256)
+- [Cassava-Supervised Contrastive Learning-Inference](https://www.kaggle.com/dimitreoliveira/cassava-supervised-contrastive-learning-inference)
 
 ### What you will find
 - Documentation [[link]](https://github.com/dimitreOliveira/Cassava-Leaf-Disease-Classification/tree/master/Documentation)
