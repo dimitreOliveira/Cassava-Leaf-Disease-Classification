@@ -74,15 +74,15 @@
 | 63-Cassava Leaf-EffNetB5 aux_task_cmd_02 512x512 | 0.901 | 0.892 | ??? |
 | 64-Cassava Leaf-EffNetB5 aux_task_healt_cmd_02 512 | 0.898 | 0.891 | ??? |
 | 65-Cassava Leaf-EffNetB5 aux_task_healt_cmd_01 512 | 0.898 | 0.895 | ??? |
-| 66-Cassava Leaf-EffNetB5 5-Fold_41 512x512 | 0.900 | 0.893 | ??? |
-| 67-Cassava Leaf-EffNetB5 5-Fold_61 512x512 | 0.900 | 0.894 | ??? |
-| 68-Cassava Leaf-EffNetB5 5-Fold_63 512x512 | 0.899 | 0.896 | ??? |
-| 69-Cassava Leaf-EffNetB5 5-Fold_51 512x512 | 0.899 | 0.895 | ??? |
+| 66-Cassava Leaf-EffNetB5 5-Fold_41 512x512 | 0.900 | 0.893 | 0.8909 |
+| 67-Cassava Leaf-EffNetB5 5-Fold_61 512x512 | 0.900 | 0.894 | 0.8945 |
+| 68-Cassava Leaf-EffNetB5 5-Fold_63 512x512 | 0.899 | 0.896 | 0.8927 |
+| 69-Cassava Leaf-EffNetB5 5-Fold_51 512x512 | 0.899 | 0.895 | 0.8960 |
 | 70-Cassava Leaf-EffNetB5 complete_2019 512x512 | 0.898 | 0.890 | ??? |
 | 71-Cassava Leaf-EffNetB5 2020_2019_oversampled 512 | 0.895 | 0.891 | ??? |
 | 72-Cassava Leaf-EffNetB5 15_ep_cycle 512x512 | 0.897 | 0.894 | ??? |
-| 73-Cassava Leaf-EffNetB5 5-Fold_63 TPU-v2 512x512 | 0.893 | 0.898 | ??? |
-| 74-Cassava Leaf-EffNetB5 5-Fold_65 512x512 | 0.900 | 0.893 | ??? |
+| 73-Cassava Leaf-EffNetB5 5-Fold_63 TPU-v2 512x512 | 0.893 | 0.898 | 0.8966 |
+| 74-Cassava Leaf-EffNetB5 5-Fold_65 512x512 | 0.900 | 0.893 | 0.8928 |
 | 75-Cassava Leaf-EffNetB5 2_aux_tasks 2020_data 512 | 0.899 | 0.889 | ??? |
 | 76-Cassava Leaf-BiT ResNet50x1 2_aux_tasks 512 | 0.893 | 0.888 | ??? |
 | 77-Cassava Leaf-BiT ResNet50x1 flower_ exp aux 512 | 0.893 | 0.890 | ??? |
@@ -129,17 +129,17 @@
 | 118-Cassava Leaf-EffNetB3 SCL augment_medium 512 | 0.895 | 0.891 | ??? |
 | 119-Cassava Leaf-EffNetB3 SCL augment_cutout 512 | 0.896 | 0.887 | ??? |
 | 120-Cassava Leaf-EffNetB3 SCL augment_clip 512x512 | 0.894 | 0.892 | ??? |
-| 121-Cassava Leaf-EffNetB3 SCL augment_heavy 512 | 0.895 | 0.887 | ??? |
+| 121-Cassava Leaf-EffNetB3 SCL augment_heavy 512 | 0.895 | 0.887 | 0.8856 |
 | 122-Cassava Leaf-EffNetB3 SCL_no_aux 512x512 | 0.896 | 0.888 | ??? |
-| 123-Cassava Leaf-EffNetB3 SCL_no_aux_2 512x512 | 0.896 | 0.886 | ??? |
-| 124-Cassava Leaf-EffNetB3 SCL_healthy 512x512 | 0.892 | 0.886 | ??? |
+| 123-Cassava Leaf-EffNetB3 SCL_no_aux_2 512x512 | 0.896 | 0.886 | 0.8848 |
+| 124-Cassava Leaf-EffNetB3 SCL_healthy 512x512 | 0.892 | 0.886 | 0.8868 |
 | 125-Cassava Leaf-EffNetB3 SCL_imagenet 512x512 | 0.885 | ??? | ??? |
 | 126-Cassava Leaf-EffNetB3 SCL_imagenet 512x512 | 0.889 | ??? | ??? |
 | 127-Cassava Leaf-EffNetB3 SCL_imagenet GPU 384x384 | 0.879 | ??? | ??? |
 | 128-Cassava Leaf-EffNetB3 SCL_imagenet bs_64 512 | 0.885 | ??? | ??? |
 | 129-Cassava Leaf-EffNetB3 SCL_imagenet bs_64_s 512 | 0.882 | ??? | ??? |
 | 130-Cassava Leaf-EffNetB3 SCL_imag GPU_random 384 | 0.881 | ??? | ??? |
-| 131-Cassava Leaf-EffNetB3 SCL_image 5-fold 512x512 | 0.893 | 0.886 | ??? |
+| 131-Cassava Leaf-EffNetB3 SCL_image 5-fold 512x512 | 0.893 | 0.886 | 0.8898 |
 | 132-Cassava Leaf-EffNetB3 SCL_imagenet 384x384 | 0.883 | ??? | ??? |
 | 133-Cassava Leaf-EffNetB5 SCL_imagenet 512x512 | 0.887 | ??? | ??? |
 | 134-Cassava Leaf-EffNetB3 SCL no_aux_task 512x512 | 0.879 | ??? | ??? |
@@ -157,21 +157,21 @@
 | 146-Cassava Leaf-EffNetB4 batch_sampling 512x512 | 0.875 | ??? | ??? |
 | 147-Cassava Leaf-EffNetB4 batch_sampling 512x512 | 0.874 | ??? | ??? |
 | 148-Cassava Leaf-EffNetB4 noisy_students 512x512 | 0.895 | ??? | ??? |
-| 149-Cassava Leaf-EffNetB4 cut_out 512x512 | 0.897 | 0.891 | ??? |
-| 150-Cassava Leaf-EffNetB4 less_cut_out 512x512 | 0.896 | 0.890 | ??? |
+| 149-Cassava Leaf-EffNetB4 cut_out 512x512 | 0.897 | 0.891 | 0.8859 |
+| 150-Cassava Leaf-EffNetB4 less_cut_out 512x512 | 0.896 | 0.890 | 0.8904 |
 | 151-Cassava Leaf-EffNetB4 cut_out 23_epoch 512x512 | 0.892 | ??? | ??? |
 | 152-Cassava Leaf-EffNetB4 more_cut_out 512x512 | 0.893 | ??? | ??? |
-| 153-Cassava Leaf-EffNetB4 single_cut_out 512x512 | 0.895 | 0.895 | ??? |
-| 154-Cassava Leaf-EffNetB4 3cycle_50step 512x512 | 0.892 | ??? | ??? |
-| 155-Cassava Leaf-EffNetB4 3cycle_100step 512x512 | 0.899 | 0.895 | ??? |
-| 156-Cassava Leaf-EffNetB4 2019_data 512x512 | 0.896 | 0.891 | ??? |
-| 157-Cassava Leaf-EffNetB4 drop_connect_rate_04 512 | 0.899 | 0.894 | ??? |
-| 158-Cassava Leaf-EffNetB3 5-Fold dcr_04 512x512 | 0.898 | 0.897 | ??? |
-| 159-Cassava Leaf-EffNetB4 5-Fold dcr_04 512x512 | 0.900 | ??? | ??? |
-| 160-Cassava Leaf-EffNetB5 5-Fold dcr_04 512x512 | 0.899 | ??? | ??? |
-| 161-Cassava Leaf-EffNetB6 5-Fold dcr_04 512x512 | 0.899 | ??? | ??? |
-| 162-Cassava Leaf-EffNetB4 dcr_04 380x380 | 0.889 | ??? | ??? |
-| 163-Cassava Leaf-EffNetB4 dcr_04 456x456 | 0.892 | ??? | ??? |
-| 164-Cassava Leaf-EffNetB4 5-Fold dcr_04 380x380 | 0.894 | ??? | ??? |
-| 165-Cassava Leaf-EffNetB4 5-Fold dcr_04 456x456 | 0.897 | ??? | ??? |
-| 166-Cassava Leaf-EffNetB4 5-Fold dcr_04 TPUv2 512 | 0.892 | ??? | ??? |
+| 153-Cassava Leaf-EffNetB4 single_cut_out 512x512 | 0.895 | 0.895 | 0.8890 |
+| 154-Cassava Leaf-EffNetB4 3cycle_50step 512x512 | 0.892 | 0.8914 | 0.8875 |
+| 155-Cassava Leaf-EffNetB4 3cycle_100step 512x512 | 0.899 | 0.895 | 0.8881 |
+| 156-Cassava Leaf-EffNetB4 2019_data 512x512 | 0.896 | 0.891 | 0.8895 |
+| 157-Cassava Leaf-EffNetB4 drop_connect_rate_04 512 | 0.899 | 0.894 | 0.8901 |
+| 158-Cassava Leaf-EffNetB3 5-Fold dcr_04 512x512 | 0.898 | 0.897 | 0.8893 |
+| 159-Cassava Leaf-EffNetB4 5-Fold dcr_04 512x512 | 0.900 | 0.8987 | 0.8922 |
+| 160-Cassava Leaf-EffNetB5 5-Fold dcr_04 512x512 | 0.899 | 0.8941 | 0.8930 |
+| 161-Cassava Leaf-EffNetB6 5-Fold dcr_04 512x512 | 0.899 | 0.8950 | 0.8907 |
+| 162-Cassava Leaf-EffNetB4 dcr_04 380x380 | 0.889 | 0.8849 | 0.8851 |
+| 163-Cassava Leaf-EffNetB4 dcr_04 456x456 | 0.892 | 0.8912 | 0.8898 |
+| 164-Cassava Leaf-EffNetB4 5-Fold dcr_04 380x380 | 0.894 | 0.8930 | 0.8912 |
+| 165-Cassava Leaf-EffNetB4 5-Fold dcr_04 456x456 | 0.897 | 0.8964 | 0.8937 |
+| 166-Cassava Leaf-EffNetB4 5-Fold dcr_04 TPUv2 512 | 0.892 | 0.8932 | 0.8912 |
